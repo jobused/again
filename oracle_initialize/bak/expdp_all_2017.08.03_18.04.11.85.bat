@@ -1,1 +1,0 @@
-expdp userid='sys/oracle@cgdb as sysdba' directory=expdp_dir dumpfile=expdp_all_2017.08.03_17.03.07.44.dmp schemas=(DLSYS,DLMIS,MMS,UMSTAT,DLHIST,DLINIT,DLTRANS,ULOG,,DLGIS,SDE) logfile=expdp_all_2017.08.03_17.03.07.44.log 
