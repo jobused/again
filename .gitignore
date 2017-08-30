@@ -1,3 +1,5 @@
 *~
 /oracle_initialize/bak/
 /oracle_initialize/bat/
+*.swp
+*.swo
